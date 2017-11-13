@@ -3,4 +3,9 @@ The repository contains Geogebra Convex Combinations used for Lectures to explai
 
 ## Wikiversity on Convex Combinations
 See Wikiversity Learning Module about Convex Combinations
-[![Geogebra Convex Combination](images/Geogebra_convex_ord3.png)](https://de.wikiversity.org/wiki/Konvexkombination) (german)
+[![Geogebra Convex Combination](images/Geogebra_convex_ord3.png)](https://de.wikiversity.org/wiki/Konvexkombination) 
+
+[german Wikiversity Article](https://de.wikiversity.org/wiki/Konvexkombination)
+
+## wxMaxima
+[wxMaxima]()
